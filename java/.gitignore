@@ -1,0 +1,5 @@
+.idea
+.gradle
+src/main/resources/serviceAccountKey.json
+out
+.gradle
