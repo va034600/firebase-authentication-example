@@ -1,0 +1,1 @@
+https://flask-httpauth.readthedocs.io/en/latest/
